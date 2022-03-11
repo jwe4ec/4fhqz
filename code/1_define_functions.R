@@ -7,7 +7,8 @@
 # Define version_control() ----
 # ---------------------------------------------------------------------------- #
 
-# Define function to check R version, load groundhog package, and return groundhog_day
+# Define function to check R version, load "groundhog" package, and return 
+# "groundhog_day" for use in later scripts
 
 version_control <- function() {
   # Ensure you are using the same version of R used to write the script
