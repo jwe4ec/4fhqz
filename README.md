@@ -1,5 +1,5 @@
 # 4fhqz
-Code for manuscript "Improving the Computational Reproducibility of Clinical Science: Tools for Open Data and Code"
+Code for article "Improving the Computational Reproducibility of Clinical Science: Tools for Open Data and Code"
 
 Author: Jeremy W. Eberle
 
